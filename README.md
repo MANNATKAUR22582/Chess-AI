@@ -24,7 +24,9 @@
 
 1. **Openings** - It uses a piece mapping formula to see optimal position of a piece on the chessboard usually. Example : A knight in the corner of the board is not as valuable as one in the center, defending more squares. Piece mapping formula for a knight would look like this -
 
-[
+
+
+    [
 
     -50, -40, -30, -30, -30, -30, -40, -50,
 
